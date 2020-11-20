@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="de-de" datatype="unknown" creationdate="20201120T180540Z">
+    <prop type="name">Task Translation Technologies</prop>
+  </header>
+  <body>
+    <tu tuid="_0OBDKA1V1WwlUAC00WvU0kvHF">
+      <tuv xml:lang="de-de">
+        <seg>Maßnahmen zur Erhöhung der <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Energieeffizienz<ept i="1000001">&lt;b}</ept>:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Measures for increasing <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>energy efficiency<ept i="1000001">&lt;b}</ept> are set out in the:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_4PHQrOLkwaT2XG44X5wj4Kki">
+      <tuv xml:lang="de-de">
+        <seg>Innovation und Finanzierung</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Innovation and financing</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_5RXPUda3MXJ2PC4Ig20k0mvY1">
+      <tuv xml:lang="de-de">
+        <seg><bpt i="1" x="1"/>NER-300<ept i="1"/> – Programm zur Förderung von Technologien im Bereich erneuerbarer Energieträger und auf dem Gebiet der <bpt i="2" x="2"/><bpt i="3" x="3"/>CO2-Abscheidung und <ept i="3"/><bpt i="4" x="4"/>Speicherung<ept i="4"/><ept i="2"/></seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg><bpt i="1" x="1"/>NER300<ept i="1"/> programme for renewable energy technologies and <bpt i="2" x="2"/>carbon capture &amp; storage<ept i="2"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_6tNkDIl904V5qc88Yvx1qypi3">
+      <tuv xml:lang="de-de">
+        <seg>10 % erneuerbare Energie im Verkehrssektor</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>a 10% share of renewables in the transport sector.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_80jqD54VwBP52788P6wfcbyn1">
+      <tuv xml:lang="de-de">
+        <seg>Die drei wichtigsten Ziele des Pakets:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>The package sets three key targets:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_8ISGU23pMnE22S4kOUg1XdDA1">
+      <tuv xml:lang="de-de">
+        <seg>Die EU ergreift Maßnahmen in verschiedenen Bereichen, um diese Ziele zu erreichen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>The EU is taking action in several areas to meet the targets.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9EkAKUrw0gG4em8ohYwrov1h3">
+      <tuv xml:lang="de-de">
+        <seg>Erhöhung der <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Energieversorgungssicherheit<ept i="1000001">&lt;b}</ept> der EU – Verringerung der Abhängigkeit von Energieeinfuhren und Beitrag zur Verwirklichung einer europäischen <bpt i="1" x="1"/>Energieunion<ept i="1"/></seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>increase the EU’s <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>energy security <ept i="1000001">&lt;b}</ept>– reducing dependence on imported energy and contributing to achieving a European <bpt i="1" x="1"/>Energy Union<ept i="1"/></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_9iC5e4na0Ya4o29MOqxn7tev0">
+      <tuv xml:lang="de-de">
+        <seg>Bei der <bpt i="1" x="1"/>jährlichen Fortschrittserfassung<ept i="1"/> durch die Kommission müssen alle Länder über ihre Emissionen Rechenschaft ablegen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg><bpt i="1" x="1"/>Progress is monitored<ept i="1"/> by the Commission every year, with each country required to report its emissions.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_DPFB29lNMap2Uy4AIs00K1pk7">
+      <tuv xml:lang="de-de">
+        <seg>Energieeffizienzplan</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Energy Efficiency Plan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_E0nmH1Ib3Zn8AIigT01sRwr5c">
+      <tuv xml:lang="de-de">
+        <seg>Diese Ziele, die die EU-Staats- und -Regierungschefs im Jahr 2007 festgelegt und zu denen sie im Jahr 2009 Rechtsvorschriften erlassen haben, sind auch Kernziele der <bpt i="1" x="1"/>Strategie Europa 2020<ept i="1"/> für intelligentes, nachhaltiges und integratives Wachstum.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>The targets were set by EU leaders in 2007 and enacted in legislation in 2009.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_EsrRQghPMi22J08wQhwT7wuI1">
+      <tuv xml:lang="de-de">
+        <seg>Diese gelten für die <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>nicht im EHS erfassten Wirtschaftszweige<ept i="1000001">&lt;b}</ept>, auf die rund <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>55 % der EU-Gesamtemissionen<ept i="1000002">&lt;b}</ept> entfallen, beispielsweise:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>This covers the <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>sectors not in the ETS<ept i="1000001">&lt;b}</ept> – accounting for some <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>55% of total EU emissions<ept i="1000002">&lt;b}</ept> – such as:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_IUyzh8z2w862hg4Uys0AFRRq0">
+      <tuv xml:lang="de-de">
+        <seg>Strategie</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Policy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_NGt3bD4nMac2O54QYiMRUl4q">
+      <tuv xml:lang="de-de">
+        <seg>Landwirtschaft</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>agriculture</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_NzjboMgywv05438g0T0eygcV3">
+      <tuv xml:lang="de-de">
+        <seg>Nutzen</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Benefits</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_PChEERd4Mxs2RX44rUgpIKIx">
+      <tuv xml:lang="de-de">
+        <seg>Verkehr (mit Ausnahme des Luftverkehrs)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>transport (excluding aviation).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_RMvf9l7pggL2CX4s6eMp1MQ70">
+      <tuv xml:lang="de-de">
+        <seg>Mit diesen Programmen unterstützt die EU die Entwicklung <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>CO2-armer Technologien<ept i="1000001">&lt;b}</ept>:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>The EU supports the development of <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>low carbon technologies<ept i="1000001">&lt;b}</ept> for example through the:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_RhTnpqNcg0V4gs9wNS16cjac0">
+      <tuv xml:lang="de-de">
+        <seg>20 %-Anteil bis 2020 (mehr als Verdopplung gegenüber den 9,8 % im Jahr 2010)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>its 20% target for 2020 (more than double the 2010 level of 9.8%)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_Zcdl2FkuMbH2CD4Q8m00cflF3">
+      <tuv xml:lang="de-de">
+        <seg><bpt i="1" x="1"/>Horizont 2020<ept i="1"/> – Finanzierung von Forschung und Innovation</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg><bpt i="1" x="1"/>Horizon 2020<ept i="1"/> funding for research &amp; innovation.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_afmvmuViwRR2Iy4QxN0MTZ9I1">
+      <tuv xml:lang="de-de">
+        <seg>Im Endeffekt wird die EU dadurch folgende Ziele erreichen können:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>The overall effect will enable the EU as a whole to reach:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bg1ZtfngxYa5Aq9wWa0sKw8B1">
+      <tuv xml:lang="de-de">
+        <seg>Im Rahmen der <bpt i="1" x="1"/>Richtlinie über Energie aus erneuerbaren Quellen<ept i="1"/> haben die EU-Länder auch <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>verbindliche nationale Ziele<ept i="1000001">&lt;b}</ept> zur Erhöhung des Anteils <bpt i="2" x="2"/>erneuerbarer Energiequellen<ept i="2"/> an ihrem Energieverbrauch bis 2020 festgelegt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>EU member countries have also taken on <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>binding national targets<ept i="1000001">&lt;b}</ept> for raising the share of <bpt i="1" x="1"/>renewables<ept i="1"/> in their energy consumption by 2020, under the <bpt i="2" x="2"/>Renewable Energy Directive<ept i="2"/>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_bojSzaAj0SK4oS8oAdwkWPid0">
+      <tuv xml:lang="de-de">
+        <seg>20 % der Energie in der EU aus <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>erneuerbaren Quellen<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>20% of EU energy from <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>renewables<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_d20UymWrxJD4QP8gpQxXW54w1">
+      <tuv xml:lang="de-de">
+        <seg>Abfallwirtschaft</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>waste</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_dW5QC6begZm2d84wQqg1TcXQ1">
+      <tuv xml:lang="de-de">
+        <seg>Nationale Ziele für erneuerbare Energiequellen</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Renewable energy – national targets</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_eD1raNzM0i1m0O91UK0wfJSHA">
+      <tuv xml:lang="de-de">
+        <seg>Diese Ziele <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>unterscheiden sich je nach Wohlstand der Länder<ept i="1000001">&lt;b}</ept> und reichen von einer Verminderung um 20 % für die reichsten EU-Länder bis zu einer Steigerung um höchstens 20 % für die am wenigsten wohlhabenden Länder (wobei diese generell dazu angehalten sind, Anstrengungen zur Senkung ihrer Emissionen zu unternehmen).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>The targets <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>differ according to national wealth<ept i="1000001">&lt;b}</ept> – from a 20% cut for the richest countries to a maximum 20% increase for the least wealthy (although they were still projected to have to make efforts to limit emissions).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_f6NR98mt0Am5sR9optwp272m0">
+      <tuv xml:lang="de-de">
+        <seg>2020 sollen die betreffenden Branchen im Vergleich zu 2005 <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>21 % weniger<ept i="1000001">&lt;b}</ept> Emissionen verursachen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>In 2020, the target is for the emissions from these sectors to be <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>21% lower<ept i="1000001">&lt;b}</ept> than in 2005.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fB9HJ00V2VR84JgMKs1ctap41">
+      <tuv xml:lang="de-de">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Klima- und Energiepaket 2020<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>2020 climate &amp; energy package<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_fGszwiPS0Eb5EK8Em01GtbXX3">
+      <tuv xml:lang="de-de">
+        <seg>Senkung der <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Treibhausgasemissionen<ept i="1000001">&lt;b}</ept> um <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>20 %<ept i="1000002">&lt;b}</ept> (gegenüber dem Stand von 1990)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>20<bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>% <ept i="1000001">&lt;b}</ept>cut in<bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt> greenhouse gas<ept i="1000002">&lt;b}</ept> emissions (from 1990 levels)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_g9K6lsp606r5uS88yH1Q5WN80">
+      <tuv xml:lang="de-de">
+        <seg>Verbesserung der <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Energieeffizienz<ept i="1000001">&lt;b}</ept> um 20 %</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>20% improvement in <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>energy efficiency<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_hOCYiDP0wSr4KE9MqE1AKqiu2">
+      <tuv xml:lang="de-de">
+        <seg>Das System deckt rund <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>45 % der Treibhausgasemissionen in der EU<ept i="1000001">&lt;b}</ept> ab.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>The ETS covers around <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>45% of the EU's greenhouse gas emissions<ept i="1000001">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_iHeP3JcJ0k1a81xwVg0Uqa1Cd">
+      <tuv xml:lang="de-de">
+        <seg>Im Rahmen der <bpt i="1" x="1"/>Lastenteilungsvereinbarung<ept i="1"/> haben die EU-Länder <bpt i="2" x="2"/>verbindliche Jahresziele<ept i="2"/> zur Verringerung der Emissionen in diesen Wirtschaftszweigen bis 2020 (gegenüber dem Stand von 2005) festgelegt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>EU countries have taken on <bpt i="1" x="1"/>binding annual targets<ept i="1"/> until 2020 for cutting emissions in these sectors (compared to 2005), under the "<bpt i="2" x="2"/>Effort-sharing decision<ept i="2"/>".</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_illpL2yxwGq2Ik4Is0xveYf03">
+      <tuv xml:lang="de-de">
+        <seg>Emissionshandelssystem (EHS)</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Emissions trading system (ETS)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_jhQokxDG00caYjiMXn1AkpNN7">
+      <tuv xml:lang="de-de">
+        <seg>Wohnungsbau</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>housing</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_m64DjSliMF82QJ48dEMgcazR">
+      <tuv xml:lang="de-de">
+        <seg>Durch die Erfüllung der 2020-Ziele dürften sich auch Verbesserungen in folgenden Bereichen ergeben:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Achieving the goals of the 2020 package should also help</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_nXAsHQT3wE04eL9oYN0GU20I1">
+      <tuv xml:lang="de-de">
+        <seg>Nationale Emissionsminderungsziele</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>National emission reduction targets</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_oDxpozeIglq2nE4cNI0wVJHG1">
+      <tuv xml:lang="de-de">
+        <seg>Schaffung von <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Arbeitsplätzen<ept i="1000001">&lt;b}</ept>, Förderung eines umweltfreundlichen <bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt>Wachstums<ept i="1000002">&lt;b}</ept> und Erhöhung der <bpt i="1000003" x="1000003" type="formatting">{b&gt;</bpt>Wettbewerbsfähigkeit<ept i="1000003">&lt;b}</ept> der EU</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>create <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>jobs, <ept i="1000001">&lt;b}</ept>advance green<bpt i="1000002" x="1000002" type="formatting">{b&gt;</bpt> growth<ept i="1000002">&lt;b}</ept> and make Europe more <bpt i="1000003" x="1000003" type="formatting">{b&gt;</bpt>competitive<ept i="1000003">&lt;b}</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_rP4t0bP50wCakhi0aU4uszMA4">
+      <tuv xml:lang="de-de">
+        <seg>Das <bpt i="1" x="1"/>Emissionshandelssystem<ept i="1"/> ist das <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>wichtigste Instrument<ept i="1000001">&lt;b}</ept> der EU zur Senkung der Treibhausgasemissionen von Großkraftwerken und großen Industrieanlagen sowie im Luftverkehr.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>The <bpt i="1" x="1"/>EU emissions trading system<ept i="1"/> is the EU's <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>key tool<ept i="1000001">&lt;b}</ept> for cutting greenhouse gas emissions from large-scale facilities in the power and industry sectors, as well as the aviation sector.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_tygpjIfQwF42aS48R1wu11fJ3">
+      <tuv xml:lang="de-de">
+        <seg>Energieeffizienzrichtlinie</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg><bpt i="1" x="1"/>Energy Efficiency Directive<ept i="1"/>.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_uJcz7qUjMfN2Yh4IXEgMzuIg">
+      <tuv xml:lang="de-de">
+        <seg>Energieeffizienz</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>Energy efficiency</seg>
+      </tuv>
+    </tu>
+    <tu tuid="_wLzNHohowSX2dn4AmVgwfRDB">
+      <tuv xml:lang="de-de">
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>Dieses Paket aus verbindlichen Rechtsvorschriften soll sicherstellen, dass die EU ihre Klima- und Energieziele bis 2020 verwirklicht.<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg><bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>The 2020 package is a set of binding legislation to ensure the EU meets its climate and energy targets for the year 2020.<ept i="1000001">&lt;b}</ept></seg>
+      </tuv>
+    </tu>
+    <tu tuid="_xz1vZkv00qOjUdC0wEaIxcOV9">
+      <tuv xml:lang="de-de">
+        <seg>Auch diese Ziele <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>variieren<ept i="1000001">&lt;b}</ept> je nach Ausgangslage und Fähigkeit der Länder, die Energieproduktion aus erneuerbaren Quellen zu erhöhen, von 10 % in Malta bis zu 49 % in Schweden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationdate="20201120T175414Z" changedate="20201120T175414Z">
+        <prop type="created_at">1605894854000</prop>
+        <prop type="modified_at">1605894854000</prop>
+        <prop type="filename">2020-2030 Climate.docx</prop>
+        <seg>These targets also <bpt i="1000001" x="1000001" type="formatting">{b&gt;</bpt>vary<ept i="1000001">&lt;b}</ept>, to reflect countries' different starting points for renewables production and ability to further increase it – from 10% in Malta to 49% in Sweden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
